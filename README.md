@@ -7,7 +7,7 @@ Identifies the top and bottom 5 schools based on average scores in math, writing
 Average Scores Visualization:
 
 Visualizes the average scores of math, writing, and reading for each school with a bar graph.
-Allows filtering scores above a specified threshold (e.g., 450).
+Allows filtering scores above a specified threshold (e.g., 600).
 Top 10 Schools by Overall Average:
 
 Calculates the overall average score for each school and displays the top 10 schools with the highest averages.
